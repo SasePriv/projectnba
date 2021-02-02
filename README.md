@@ -7,4 +7,4 @@ Before to run this project i recommended to install the extension Allow CORS: Ac
 because if you not activate that extension you will recieved this error getting the data: 
 Access to XMLHttpRequest at 'https://mach-eight.uc.r.appspot.com/' from origin 'http://localhost:3000' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
 
-Install the dependencies with "npm install" and then execute "npm start"
+Install the dependencies with "yarn" and then execute "yarn start"
