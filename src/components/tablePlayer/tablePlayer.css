@@ -1,0 +1,44 @@
+.itemBox{
+    padding: 5px;
+    background-color: white;
+    width: 40px;
+    height: 40px;    
+    margin: 2px;
+    border: 1px solid #00438c;
+    border-radius: 10px;    
+}
+
+.itemBox a{
+    text-decoration: none !important; 
+    color: #00438c;
+    width: 100%;
+}
+
+.itemBox:hover a{    
+    color: white;
+}
+
+.itemBox:hover{    
+    background-color: #00438c;
+    cursor: pointer;
+}
+
+.activeBox{
+    background-color: #00438c;    
+}
+
+.activeBox a{
+    color: white;
+}
+
+.pagination{
+    justify-content: center;
+}
+
+.headersTable th{
+    cursor: pointer;
+}
+
+.bodyTable tr{
+    cursor: pointer;
+}

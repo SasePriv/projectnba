@@ -1,0 +1,17 @@
+.contentRight{    
+    width: auto;    
+    padding: 50px;
+    margin-left: 200px;
+}
+
+.height-full{
+    height: 100vh;
+}
+
+.card-co{
+    background-color: #eaf2ff;
+    width: 100%;
+    height: -webkit-fill-available;
+    border-radius: 35px;
+    padding: 20px;
+}
